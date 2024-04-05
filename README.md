@@ -1,2 +1,0 @@
-# PathFinding
-Proyecto PathFinding 
