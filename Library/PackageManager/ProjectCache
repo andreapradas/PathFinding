@@ -13,14 +13,14 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638478223469105803
-    m_Hash: 1140931575
+      ticks: 638514736071393540
+    m_Hash: 2496484939
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
 m_ProjectPath: "C:/Users/Usuario/Desktop/MASTER/3\xBAMASTER/ProgramacionVideojuegos_AVANZADO/UNITY/PathFinding_AndreaPradas/Packages"
-m_EditorVersion: 2022.3.23f1 (dbb3f7c5b5c6)
+m_EditorVersion: 2022.3.20f1 (61c2feb0970d)
 m_ResolvedPackages:
 - packageId: com.unity.ai.navigation@1.1.5
   testable: 0
@@ -187,8 +187,9 @@ m_ResolvedPackages:
     - 2.2.0
     - 2.3.1
     compatible:
+    - 2.2.0
     - 2.3.1
-    recommended: 2.3.1
+    recommended: 2.2.0
     deprecated: []
   dependencies: []
   resolvedDependencies: []
@@ -226,7 +227,7 @@ m_ResolvedPackages:
     revision: 613362ccb4468f55ee42e0a35809fb9a61f3f8f1
     path: 
   unityLifecycle:
-    version: 2.3.1
+    version: 2.2.0
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -391,6 +392,7 @@ m_ResolvedPackages:
     - 3.0.27
     - 3.0.28
     compatible:
+    - 3.0.27
     - 3.0.28
     recommended: 3.0.28
     deprecated: []
@@ -420,7 +422,7 @@ m_ResolvedPackages:
     revision: f4880c72477e9bbd7321c0dbda4428fa10d916df
     path: 
   unityLifecycle:
-    version: 3.0.28
+    version: 3.0.27
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
@@ -1200,6 +1202,7 @@ m_ResolvedPackages:
     - 1.9.1
     - 1.9.2
     compatible:
+    - 1.9.1
     - 1.9.2
     recommended: 1.9.2
     deprecated:
@@ -1238,7 +1241,7 @@ m_ResolvedPackages:
     revision: 0dd874ef58a75ee4b4df6a81e65230e2602096a3
     path: 
   unityLifecycle:
-    version: 1.9.2
+    version: 1.9.1
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0
